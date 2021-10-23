@@ -29,5 +29,5 @@ public class BinarySearch {
     }
     //ToDo 2: Call the above method and test the algorithm  
     // provide time and space analysis 
-
+    // O(log base 2 of n)
 }
